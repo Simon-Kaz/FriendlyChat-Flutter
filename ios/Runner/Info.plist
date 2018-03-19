@@ -58,6 +58,10 @@
                 <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
              </array>
           </dict>
-      </array>
+     </array>
+     <key>NSCameraUsageDescription</key>
+     <string>Share images with other chat users</string>
+     <key>NSPhotoLibraryUsageDescription</key>
+     <string>Share images with other chat users</string>
 </dict>
 </plist>
